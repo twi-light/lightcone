@@ -1,0 +1,2 @@
+# lightcone
+Testing lightscript/lightscript
